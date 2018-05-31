@@ -1,0 +1,1 @@
+Project that uses the TM4C123 microcontroller to get the current temperature of the area.

@@ -1,0 +1,1 @@
+Project that uses TM4C1234 microcontroller to sample an analog input. The collected data is then displayed onto an LCD as a graph to show users of analog data sampling.
